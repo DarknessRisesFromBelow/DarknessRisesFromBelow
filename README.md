@@ -12,7 +12,7 @@ so I have watched a few tutorials and started using unity with c#.
 I have ditched it for server writing, and making apps and tools I would want to use
 
 I am now after 1 year of developing an app\
-(so far I had only built a single part of an app, server/website but never both)\
+(until this project my project only consisted of a server/website but never both)\
 and it has been one of the most rewarding and interesting processes of my software development journey
 
 can wait to share it and my future projects with you!\

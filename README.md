@@ -1,6 +1,9 @@
 # WELCOME
-my name is yair medina, I write software...
+my name is yair medina, I write software sometimes...
+in fact, it is a hobby of mine!
+a nice hobby...
 
+##
 
 ## BACKGROUND:
 I have always been obsesssed with computers,

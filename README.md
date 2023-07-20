@@ -27,3 +27,5 @@ stay tuned🔔
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DarknessRisesFromBelow&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C58E6EB22%2CEB00000E)](https://git.io/streak-stats)
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SiniMini876&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

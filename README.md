@@ -1,4 +1,12 @@
-<div style="background-color: rgb(255,255,255)">
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
+<div class="green">
 # WELCOME
 my name is yair medina, I write software sometimes...\
 in fact, it is a hobby of mine!\

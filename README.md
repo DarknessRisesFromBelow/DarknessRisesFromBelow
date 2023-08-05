@@ -19,7 +19,7 @@ I am currently after 1 year of developing an app\
 and it has been one of the most rewarding and interesting processes of my software development journey
 
 can wait to share it and my future projects with you!\
-stay tuned🔔
+! stay tuned🔔
 
 ##
 

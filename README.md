@@ -1,12 +1,4 @@
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-# WELCOME {#identifier .green}
+# WELCOME 
 my name is yair medina, I write software sometimes...\
 in fact, it is a hobby of mine!\
 a nice hobby...

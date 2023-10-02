@@ -15,10 +15,10 @@ so I have watched a few tutorials and started using unity with c#.
 I have ditched it for server writing, and making apps and tools I would want to use
 
 I am currently after 1 year of developing an app\
-(until this project my projects only consisted of a server/website but never both)\
+(until this project my projects only consisted of a server/website (or an offline console app) but never both)\
 and it has been one of the most rewarding and interesting processes of my software development journey
 
-can wait to share it and my future projects with you!\
+can't wait to share it and my future projects with you!\
 stay tuned🔔
 
 ##

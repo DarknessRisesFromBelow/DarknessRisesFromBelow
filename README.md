@@ -14,7 +14,7 @@ so I have watched a few tutorials and started using unity with c#.
 6 years later and I now don't make games anymore other then in special occasions\
 I have ditched it for server writing, and making apps and tools I would want to use
 
-I am currently after 1 year of developing an app\
+I am currently after almost 2 years of developing an app\
 (until this project my projects only consisted of a server/website (or an offline console app) but never both)\
 and it has been one of the most rewarding and interesting processes of my software development journey
 

@@ -26,6 +26,6 @@ stay tuned🔔
 ## some GH stats:
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarknessRisesFromBelow&theme=dark&show_icons=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarknessRisesFromBelow&layout=donut&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarknessRisesFromBelow&theme=dark&show_icons=true) \
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarknessRisesFromBelow&layout=donut&theme=dark) \
 ![User trophy](https://github-profile-trophy.vercel.app/?username=DarknessRisesFromBelow&column=4&margin-w=15&margin-h=15&theme=dracula)

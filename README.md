@@ -26,4 +26,6 @@ stay tuned🔔
 ## some GH stats:
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DarknessRisesFromBelow&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C58E6EB22%2CEB00000E)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarknessRisesFromBelow&theme=dark&show_icons=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarknessRisesFromBelow&layout=donut&theme=dark)
+![User trophy](https://github-profile-trophy.vercel.app/?username=DarknessRisesFromBelow&column=4&margin-w=15&margin-h=15&theme=dracula)

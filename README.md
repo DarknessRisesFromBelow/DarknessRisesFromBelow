@@ -14,7 +14,7 @@ so I have watched a few tutorials and started using unity with c#.
 8 years later and I now don't make games anymore other then in special occasions\
 I have ditched it for server writing, and making apps and tools I would want to use
 
-can't wait to share it and my future projects with you!\
+can't wait to share my future projects with you!\
 stay tuned🔔
 
 ##

@@ -23,8 +23,13 @@ stay tuned🔔
 
 ##
 
-## my tech stack
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,c,cs,cpp,css,dart,discord,docker,dotnet,eclipse,flutter,git,github,gitlab,html,java,js,latex,linux,md,mongodb,nextjs,nodejs,obsidian,py,react,sublime,ts,ubuntu,vscode,visualstudio,windows)]()
+## The Languages I Use
+[![My Languages](https://skillicons.dev/icons?i=c,cs,cpp,css,dart,flutter,html,java,js,md,py,ts)]()
+
+##
+
+## The tech, software & frameworks I Use
+[![My Languages](https://skillicons.dev/icons?i=androidstudio,bash,discord,docker,dotnet,eclipse,git,github,gitlab,latex,linux,mongodb,nextjs,nodejs,obsidian,react,sublime,ubuntu,vscode,visualstudio,windows)]()
 
 ##
 

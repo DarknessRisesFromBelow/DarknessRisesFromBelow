@@ -23,6 +23,11 @@ stay tuned🔔
 
 ##
 
+## my tech stack
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,c,cs,cpp,css,dart,discord,docker,dotnet,eclipse,flutter,git,github,gitlab,html,java,js,latex,linux,md,mongodb,nextjs,nodejs,obsidian,py,react,sublime,ts,ubuntu,vscode,visualstudio,windows)](https://skillicons.dev)
+
+##
+
 ## some GH stats:
 
 
